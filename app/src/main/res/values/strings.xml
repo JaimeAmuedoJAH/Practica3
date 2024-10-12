@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Practica3</string>
+    <string name="hintNombre">Apellidos y nombre</string>
+    <string name="strNombre">Nombre:</string>
+    <string name="btnEnviar">Enviar</string>
+
+    <string name="Respuesta_primera_A">TextView</string>
+    <string name="Respuesta_primera_B">Button</string>
+    <string name="Respuesta_primera_C">Spinner</string> //CORRECTA
+    <string name="Respuesta_primera_D">ImageView</string>
+
+    <string name="Respuesta_segunda_A">onStart()</string>
+    <string name="Respuesta_segunda_B">onCreate()</string> //CORRECTA
+    <string name="Respuesta_segunda_C">onResume()</string>
+    <string name="Respuesta_segunda_D">onPause()</string>
+
+    <string name="Respuesta_tercera_A">Button</string>
+    <string name="Respuesta_tercera_B">EditText</string>
+    <string name="Respuesta_tercera_C">TextView</string>
+    <string name="Respuesta_tercera_D">ImageButton</string> //CORRECTA
+
+    <string name="Respuesta_cuarta_A">Definir el diseño de la UI.</string>
+    <string name="Respuesta_cuarta_B">Declarar componentes de la aplicación.</string> //CORRECTA
+    <string name="Respuesta_cuarta_C">Especificar estilos y temas.</string>
+    <string name="Respuesta_cuarta_D">Administrar las dependencias del proyecto.</string>
+
+    <string name="Respuesta_quinta_A">Button</string>
+    <string name="Respuesta_quinta_B">TextView</string>
+    <string name="Respuesta_quinta_C">EditText</string> //CORRECTA
+    <string name="Respuesta_quinta_D">ImageView</string>
+
+    <string name="Respuesta_sexta_A">SQLite</string> //CORRECTA
+    <string name="Respuesta_sexta_B">MySQL</string>
+    <string name="Respuesta_sexta_C">PostgreSQL</string>
+    <string name="Respuesta_sexta_D">Oracle</string>
+
+    <string name="Respuesta_septima_A">finish()</string> //CORRECTA
+    <string name="Respuesta_septima_B">stop()</string>
+    <string name="Respuesta_septima_C">close()</string>
+    <string name="Respuesta_septima_D">destroy()</string>
+
+    <string name="Respuesta_octava_A">Toast</string>
+    <string name="Respuesta_octava_B">AlertDialog</string> //CORRECTA
+    <string name="Respuesta_octava_C">Snackbar</string>
+    <string name="Respuesta_octava_D">PopupWindow</string>
+
+    <string name="Respuesta_novena_A">Toast</string> //CORRECTA
+    <string name="Respuesta_novena_B">AlertDialog</string>
+    <string name="Respuesta_novena_C">Snackbar</string>
+    <string name="Respuesta_novena_D">Notification</string>
+
+    <string name="Respuesta_decima_A">Spinner</string>
+    <string name="Respuesta_decima_B">CheckboxGroup</string>
+    <string name="Respuesta_decima_C">RadioGroup</string> //CORRECTA
+    <string name="Respuesta_decima_D">ButtonGroup</string>
+
+
+    <string-array name="preguntas">
+        <item>¿Cuál de los siguientes componentes se utiliza para mostrar una lista en Android?</item>
+        <item>¿Qué método se crea al iniciar nuestra clase MainActivity.java?</item>
+        <item> ¿Qué componente de UI se utiliza para mostrar una imagen en un botón Android?</item>
+        <item>¿Cuál es el propósito del archivo AndroidManifest.xml?</item>
+        <item>¿Qué componente de UI se utiliza para capturar la entrada de texto del usuario?</item>
+        <item>¿Cuál de las siguientes es una base de datos incorporada en Android?</item>
+        <item>¿Qué método se debe llamar para cerrar una Activity?</item>
+        <item>¿Qué componente se utiliza para mostrar una ventana de diálogo emergente?</item>
+        <item>¿Qué método utilizas para mostrar un mensaje corto en la pantalla del usuario en Android?</item>
+        <item>¿Qué componente de Android se utiliza para agrupar un conjunto de botones de opción (radio buttons) para que solo uno de ellos pueda ser seleccionado a la vez?</item>
+    </string-array>
+</resources>
